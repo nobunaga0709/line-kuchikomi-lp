@@ -11,7 +11,7 @@ export default function AboutSection() {
               👤
             </div>
             <div>
-              <div className="font-bold text-gray-900">開発者</div>
+              <div className="font-bold text-gray-900">開発者 イマイトマト</div>
               <div className="text-sm text-gray-500">フリーランスエンジニア</div>
             </div>
           </div>
